@@ -1,4 +1,6 @@
 .idea
+.vscode
 dist
+out
 node_modules
 *.user

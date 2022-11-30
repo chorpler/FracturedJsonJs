@@ -1,4 +1,11 @@
 .idea
+.gitignore
+.npmignore
+.vscode
 node_modules
 *.user
-.vscode
+src
+test
+jest.config.js
+tsconfig.json
+package-lock.json
